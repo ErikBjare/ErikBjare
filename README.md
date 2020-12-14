@@ -4,13 +4,13 @@ I build free and open source software for fun and the betterment of mankind 🌎
 
 Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) and [decentralized finance](https://defipulse.com/), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), and whatever the latest AI/ML hype is.
 
-### Projects
+### Projects 📌
 
  - Founder and maintainer of [ActivityWatch](https://github.com/ActivityWatch/activitywatch) 📊
  - Maintainer of [uniswap-python](https://github.com/shanefontaine/uniswap-python/) 📈
  - Maintainer of [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) 🧠
  - Working on [my MSc thesis](https://github.com/ErikBjare/thesis) about classifying brain activity (with EEG) 🧠
- - And lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories)...
+ - And lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories) ✨
 
 ### Around the web 🧭
 
