@@ -9,11 +9,11 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
  - Founder and maintainer of [ActivityWatch](https://github.com/ActivityWatch/activitywatch) 📊
  - Maintainer of [uniswap-python](https://github.com/shanefontaine/uniswap-python/) 📈
  - Maintainer of [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) 🧠
- - Working on [my MSc thesis](https://github.com/ErikBjare/thesis) to classify device activity from brain activity (with EEG) 🧠
- - And lots of other stuff...
+ - Working on [my MSc thesis](https://github.com/ErikBjare/thesis) about classifying brain activity (with EEG) 🧠
+ - And lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories)...
 
 ### Around the web 🧭
 
  - Go through my shitty [website](https://erik.bjareholt.com) 🌐
  - Improve your [S/N ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio) by following me on [Twitter](https://twitter.com/ErikBjare) 🐦
- - Fund my work on [Patreon](https://patreon.com/ErikBjare) 🥰
+ - Fund my work on [Patreon](https://patreon.com/ErikBjare) or by becoming a [GitHub Sponsor](https://github.com/sponsors/ErikBjare) 🥰
