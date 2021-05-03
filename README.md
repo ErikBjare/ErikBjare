@@ -14,6 +14,6 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
 
 ### Around the web 🧭
 
- - Go through my shitty [website](https://erik.bjareholt.com) 🌐
+ - Check out my [website](https://erik.bjareholt.com) 🌐
  - Improve your [S/N ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio) by following me on [Twitter](https://twitter.com/ErikBjare) 🐦
  - Fund my work on [Patreon](https://patreon.com/ErikBjare) or by becoming a [GitHub Sponsor](https://github.com/sponsors/ErikBjare) 🥰
