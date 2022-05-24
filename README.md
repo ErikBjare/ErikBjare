@@ -9,7 +9,7 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
  - Founder and maintainer of [ActivityWatch](https://github.com/ActivityWatch/activitywatch) 📊
  - Maintainer of [uniswap-python](https://github.com/shanefontaine/uniswap-python/) 📈
  - Maintainer of [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) 🧠
- - Working on [my MSc thesis](https://github.com/ErikBjare/thesis) about classifying brain activity (with EEG) 🧠
+ - Wrote my [MSc thesis](https://github.com/ErikBjare/thesis) about classifying the brain activity of developers (with EEG) 🧠
  - And lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories) ✨
 
 ### Around the web 🧭
