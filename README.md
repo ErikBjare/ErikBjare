@@ -7,6 +7,7 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
 ### Projects 📌
 
  - Founder and maintainer of [ActivityWatch](https://github.com/ActivityWatch/activitywatch) 📊
+ - Analyzing my personal data in [quantifiedme](https://github.com/ErikBjare/quantifiedme) 🔬
  - Maintainer of [uniswap-python](https://github.com/shanefontaine/uniswap-python/) 📈
  - Maintainer of [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) 🧠
  - Wrote my [MSc thesis](https://github.com/ErikBjare/thesis) about classifying the brain activity of developers (with EEG) 🧠
