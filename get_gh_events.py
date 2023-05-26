@@ -59,6 +59,7 @@ def read_last_event_timestamp(file_path: str) -> str | None:
 
 def write_events_to_csv(file_path: str, events: List[Dict]):
     file_exists = os.path.exists(file_path)
+    events = sorted(events, key=lambda e: e["timestamp"])
 
     with open(file_path, "a", newline='') as f:
         writer = csv.writer(f)
