@@ -68,5 +68,10 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
   </table>
 </details>
 
+<details>
+<summary>Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ErikBjare" />
+</details>
+
 [**I'm hiring**](https://erik.bjareholt.com/jobs/)
 | [**PGP key**](https://erik.bjareholt.com/erikbjare.asc)
