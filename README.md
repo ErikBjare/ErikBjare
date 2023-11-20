@@ -43,6 +43,10 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
         <td><a href="https://github.com/ActivityWatch/activitywatch/actions/workflows/build.yml"><img src="https://github.com/ActivityWatch/activitywatch/actions/workflows/build.yml/badge.svg" alt="Build" /></a></td>
       </tr>
       <tr>
+        <td>gptme</td>
+        <td><a href="https://github.com/ErikBjare/gptme/actions/workflows/build.yml"><img src="https://github.com/ErikBjare/gptme/actions/workflows/build.yml/badge.svg" alt="Build" /></a></td>
+      </tr>
+      <tr>
         <td>dotfiles</td>
         <td><a href="https://github.com/ErikBjare/dotfiles/actions/workflows/test.yml"><img src="https://github.com/ErikBjare/dotfiles/actions/workflows/test.yml/badge.svg" alt="Test" /></a></td>
       </tr>
