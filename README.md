@@ -22,11 +22,10 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
  - Follow me on [Twitter](https://twitter.com/ErikBjare) 🐦
  - Fund my work on [Patreon](https://patreon.com/ErikBjare) or by becoming a [GitHub Sponsor](https://github.com/sponsors/ErikBjare) 🥰
 
+---
 
 <details>
-  <summary>
-    <h4>Continuous Integration</h4>
-  </summary>
+  <summary><b>Continuous Integration</b></summary>
 
   A table of CI badges for some of my repos:
 
@@ -75,7 +74,7 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
 </details>
 
 <details>
-<summary>Stats</summary>
+<summary><b>Stats</b></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ErikBjare" />
 </details>
 
