@@ -6,11 +6,12 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
 
 ### Projects 📌
 
+ - Build web apps using natural language with [gptengineer.app](https://gptengineer.app) :rocket: at [Lovable](https://github.com/lovablelabs/) :heart:
  - The world's best free and open-source automated time-tracker [ActivityWatch](https://github.com/ActivityWatch/activitywatch) 📊
  - Making LLMs do work in the terminal [gptme](https://github.com/ErikBjare/gptme) 📇🤖
  - Asking when I can finally replace GitHub Copilot [are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) 🖥️🤖
  - Analyzing my personal data in [quantifiedme](https://github.com/ErikBjare/quantifiedme) 🔬
- - Maintainer of [uniswap-python](https://github.com/shanefontaine/uniswap-python/) 📈
+ - Maintainer of [uniswap-python](https://github.com/shanefontaine/uniswap-python/) 💰📈
  - Maintainer of [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) 🧠
  - Wrote my [MSc thesis](https://github.com/ErikBjare/thesis) about classifying the brain activity of developers (with EEG) 🧠
  - And **lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories)** ✨
