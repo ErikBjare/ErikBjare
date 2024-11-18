@@ -77,6 +77,7 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
 <details>
 <summary><b>Stats</b></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ErikBjare" />
+<img src="https://github-profile-trophy.vercel.app/?username=erikbjare" />
 </details>
 
 [**I'm hiring**](https://erik.bjareholt.com/jobs/)
