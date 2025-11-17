@@ -1,6 +1,8 @@
 # Hi, I'm Erik 👋🏼
 
-I build free and open source software for fun and the betterment of mankind 🌎🌍🌏. I also do things with markets for 💸.
+I build free and open source software for fun and the betterment of mankind 🌎🌍🌏
+
+I do things with markets for 💸, but for a while I was a first hire in the founding team at [Lovable](https://lovable.dev/) :heart:
 
 Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) and [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), and **whatever the latest AI/ML hype is**.
 
@@ -9,14 +11,11 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
  - Making LLM agents help you with everything [gptme](https://github.com/ErikBjare/gptme) 📇🤖
  - Developing truly autonomous agents, like [Bob](https://github.com/TimeToBuildBob) 👷
  - The world's best free and open-source automated time-tracker [ActivityWatch](https://github.com/ActivityWatch/activitywatch) 📊
- - Build web apps fast using natural language with [Lovable](https://lovable.dev/) :heart:
- - Asking when I can finally replace GitHub Copilot [are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) 🖥️🤖
  - Analyzing my personal data in [quantifiedme](https://github.com/ErikBjare/quantifiedme) 🔬
  - Maintainer of [uniswap-python](https://github.com/shanefontaine/uniswap-python/) 💰📈
  - Maintainer of [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) 🧠📚
  - Wrote my [MSc thesis](https://github.com/ErikBjare/thesis) about classifying the brain activity of developers (with EEG) 🧠⚡
  - And **lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories)** ✨
-
 
 ### Around the web 🧭
 
