@@ -6,7 +6,7 @@ Talk to me about [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self
 
 ### Projects 📌
 
- - Making LLM agents help you with everything from the terminal [gptme](https://github.com/ErikBjare/gptme) 📇🤖
+ - Making LLM agents help you with everything [gptme](https://github.com/ErikBjare/gptme) 📇🤖
  - The world's best free and open-source automated time-tracker [ActivityWatch](https://github.com/ActivityWatch/activitywatch) 📊
  - Build web apps fast using natural language with [Lovable](https://lovable.dev/) :heart:
  - Asking when I can finally replace GitHub Copilot [are-copilots-local-yet](https://github.com/ErikBjare/are-copilots-local-yet) 🖥️🤖
