@@ -2,7 +2,7 @@
 
 I build free and open-source software for fun and the betterment of mankind 🌎🌍🌏
 
-I used to trade for a living 📈, but now I'm all-in on building. Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant that turns every developer into a superuser. Creator of [ActivityWatch](https://activitywatch.net), the world's best open-source time tracker (since 2014). Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer) :heart:
+I used to trade for a living 💸, but now I'm all-in on building. Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant that turns every developer into a superuser. Creator of [ActivityWatch](https://activitywatch.net), the world's best open-source time tracker (since 2014). Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer) :heart:
 
 Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) — and past interests I may revisit as agents scale my bandwidth: [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) and [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance).
 
