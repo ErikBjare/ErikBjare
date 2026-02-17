@@ -10,6 +10,10 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 
  - [**gptme**](https://gptme.org) — Making LLM agents help you with everything 📇🤖
  - [**gptme-contrib**](https://github.com/gptme/gptme-contrib) — Community plugins, tools, and lessons for gptme 🧩
+   - [**gptodo**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptodo) — Task management CLI with multi-agent spawning
+   - [**gptme-voice**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptme-voice) — Voice interface using OpenAI Realtime API
+   - [**gptmail**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptmail) — Email integration for agents
+   - [**gptme-activity-summary**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptme-activity-summary) — Recursive daily/weekly/monthly summarization
  - [**Bob**](https://github.com/TimeToBuildBob) — Developing truly autonomous agents 👷
  - [**ActivityWatch**](https://activitywatch.net) — The world's best free and open-source automated time-tracker 📊
  - [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) — Analyzing my personal data 🔬
