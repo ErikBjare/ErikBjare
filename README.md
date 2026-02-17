@@ -2,17 +2,14 @@
 
 I build free and open-source software for fun and the betterment of mankind 🌎🌍🌏
 
-Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant that turns every developer into a superuser. Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer) :heart:
+Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant that turns every developer into a superuser. Creator of [ActivityWatch](https://activitywatch.net), the world's best open-source time tracker (since 2014). Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer) :heart:
 
 Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) — and past interests I may revisit as agents scale my bandwidth: [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) and [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance).
-
-### Current Focus
-
-Building an AI-native one-person company. Agents have become such an obvious priority that they unlock everything else — Superuser Labs develops gptme as open-source infrastructure for personal AI agents that respect your privacy, run locally, and make you more capable.
 
 ### Projects 📌
 
  - Making LLM agents help you with everything — [**gptme**](https://gptme.org) 📇🤖
+ - Community plugins, tools, and lessons for gptme — [**gptme-contrib**](https://github.com/gptme/gptme-contrib) 🧩
  - Developing truly autonomous agents, like [**Bob**](https://github.com/TimeToBuildBob) 👷
  - The world's best free and open-source automated time-tracker — [**ActivityWatch**](https://activitywatch.net) 📊
  - Analyzing my personal data in [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) 🔬
@@ -34,14 +31,14 @@ Building an AI-native one-person company. Agents have become such an obvious pri
 
 | Year | Milestone |
 |------|-----------|
-| 2016 | Started [ActivityWatch](https://github.com/ActivityWatch/activitywatch) — open-source automated time tracking |
+| 2014 | Started [ActivityWatch](https://github.com/ActivityWatch/activitywatch) — open-source automated time tracking ([timeline](https://activitywatch.net/timeline/)) |
+| 2016 | [Rewrote ActivityWatch](https://github.com/ActivityWatch/activitywatch) from scratch — the version that took off |
 | 2018 | Founded [Superuser Labs](https://github.com/SuperuserLabs) |
 | 2021 | Completed MSc thesis on [classifying developer brain activity with EEG](https://github.com/ErikBjare/thesis) |
 | 2023 | Started building [gptme](https://github.com/gptme/gptme) — AI assistant for the terminal |
 | 2023 | Joined [Lovable](https://lovable.dev/) as first hire in the founding team |
 | 2024 | Left Lovable to focus on Superuser Labs full-time |
 | 2024 | Created [Bob](https://github.com/TimeToBuildBob), first truly autonomous agent on gptme |
-| 2025 | Launched Superuser Labs as an AI-native one-person company |
 
 </details>
 
@@ -52,7 +49,7 @@ Building an AI-native one-person company. Agents have become such an obvious pri
 - **Local-first, privacy-first.** Your data should stay on your machine by default. Cloud should be opt-in, not mandatory.
 - **Agents should be general-purpose.** Special-purpose AI tools are the wrong bet. General agents that can use any tool will outperform specialized ones — [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) applied to agents.
 - **Simple beats complex.** Unix philosophy: small, composable tools that do one thing well. YAGNI. Ship the simplest thing that works.
-- **AI makes individuals more powerful.** One person with the right tools can do what used to take a team. That's what Superuser Labs is about.
+- **AI makes individuals more powerful.** One person with the right tools can do what used to take a team.
 
 </details>
 
@@ -61,7 +58,9 @@ Building an AI-native one-person company. Agents have become such an obvious pri
 
 **gptme** — Terminal-based AI assistant framework. Supports Claude, GPT-4, local models. Tool system for file editing, code execution, web browsing, and custom tools. Powers autonomous agents like Bob. Open source, 4k+ GitHub stars.
 
-**ActivityWatch** — Privacy-first automated time tracking. Runs locally, tracks what you do on your computer, provides insights. 10k+ GitHub stars, used in 50+ academic papers, active community. Founded 2016.
+**gptme-contrib** — Community plugins and tools for gptme. Includes gptodo (task management CLI with multi-agent spawning), Twitter/Telegram bot integrations, activity summarization, voice interface, lessons system, and the ACE evaluation framework.
+
+**ActivityWatch** — Privacy-first automated time tracking. Runs locally, tracks what you do on your computer, provides insights. 10k+ GitHub stars, 400k+ downloads, used in 50+ academic papers, active community. [Founded 2014](https://activitywatch.net/timeline/), rewritten 2016.
 
 **Bob** — An autonomous AI agent that runs 24/7 on a VM. Writes code, reviews PRs, publishes blog posts, manages infrastructure, and learns from every session. Built on gptme's agent architecture, designed to be forkable for creating new agents.
 
