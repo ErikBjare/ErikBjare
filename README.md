@@ -8,14 +8,14 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 
 ### Projects 📌
 
- - Making LLM agents help you with everything — [**gptme**](https://gptme.org) 📇🤖
- - Community plugins, tools, and lessons for gptme — [**gptme-contrib**](https://github.com/gptme/gptme-contrib) 🧩
- - Developing truly autonomous agents, like [**Bob**](https://github.com/TimeToBuildBob) 👷
- - The world's best free and open-source automated time-tracker — [**ActivityWatch**](https://activitywatch.net) 📊
- - Analyzing my personal data in [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) 🔬
- - Maintainer of [**uniswap-python**](https://github.com/uniswap-python/uniswap-python/) 💰📈
- - Maintainer of [**eeg-notebooks**](https://github.com/NeuroTechX/eeg-notebooks) 🧠📚
- - Wrote my [**MSc thesis**](https://github.com/ErikBjare/thesis) about classifying the brain activity of developers (with EEG) 🧠⚡
+ - [**gptme**](https://gptme.org) — Making LLM agents help you with everything 📇🤖
+ - [**gptme-contrib**](https://github.com/gptme/gptme-contrib) — Community plugins, tools, and lessons for gptme 🧩
+ - [**Bob**](https://github.com/TimeToBuildBob) — Developing truly autonomous agents 👷
+ - [**ActivityWatch**](https://activitywatch.net) — The world's best free and open-source automated time-tracker 📊
+ - [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) — Analyzing my personal data 🔬
+ - [**uniswap-python**](https://github.com/uniswap-python/uniswap-python/) — Python library for Uniswap 💰📈
+ - [**eeg-notebooks**](https://github.com/NeuroTechX/eeg-notebooks) — EEG experiments for consumer-grade BCIs 🧠📚
+ - [**MSc thesis**](https://github.com/ErikBjare/thesis) — Classifying the brain activity of developers (with EEG) 🧠⚡
  - And **lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories)** ✨
 
 ### Around the web 🧭
