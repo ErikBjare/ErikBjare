@@ -37,7 +37,7 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 | Year | Milestone |
 |------|-----------|
 | 2012 | Built Algobit — algorithmic trading system, written in high school |
-| 2013 | Started university |
+| 2013 | Started MSc in Computer Science & Engineering at [LTH](https://www.lth.se/english/), Lund University |
 | 2014 | Started [ActivityWatch](https://github.com/ActivityWatch/activitywatch) — open-source automated time tracking ([timeline](https://activitywatch.net/timeline/)) |
 | 2016 | [Rewrote ActivityWatch](https://github.com/ActivityWatch/activitywatch) from scratch — the version that took off |
 | 2018 | Founded [Superuser Labs](https://github.com/SuperuserLabs) |
