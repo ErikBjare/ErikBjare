@@ -39,10 +39,10 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 | 2012 | Built Algobit — algorithmic trading system, written in high school |
 | 2013 | Started studying Computer Science & Engineering at [LTH](https://www.lth.se/english/), Lund University |
 | 2014 | Started [ActivityWatch](https://github.com/ActivityWatch/activitywatch) — open-source automated time tracking ([timeline](https://activitywatch.net/timeline/)) |
-| 2016 | [Rewrote ActivityWatch](https://github.com/ActivityWatch/activitywatch) from scratch — the version that took off |
-| 2016 | Started [Thankful](https://github.com/SuperuserLabs/thankful) — auto-send crypto to creators of content you love |
-| 2018 | Founded [Superuser Labs](https://github.com/SuperuserLabs) |
-| 2021 | Completed MSc thesis on [classifying developer brain activity with EEG](https://github.com/ErikBjare/thesis) |
+| 2016 | Rewrote ActivityWatch from scratch — the version that took off |
+| 2017 | Founded [Superuser Labs](https://superuserlabs.org/) with [Thankful](https://github.com/SuperuserLabs/thankful) as the initial project. Received Leapfrogs grant from Lund University |
+| 2019 | Thankful discontinued; ActivityWatch became primary focus |
+| 2021 | Completed MSc thesis on [classifying developer brain activity with EEG](https://github.com/ErikBjare/thesis). Received Uniswap Grant |
 | 2023 | Started building [gptme](https://github.com/gptme/gptme) — AI assistant for the terminal |
 | 2023 | Joined [Lovable](https://lovable.dev/) as first hire in the founding team |
 | 2024 | Left Lovable to focus on Superuser Labs full-time |
