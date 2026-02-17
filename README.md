@@ -17,7 +17,7 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
  - [**Bob**](https://github.com/TimeToBuildBob) — Developing truly autonomous agents 👷
  - [**ActivityWatch**](https://activitywatch.net) — The world's best free and open-source automated time-tracker 📊
  - [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) — Analyzing my personal data 🔬
- - [**Thankful**](https://github.com/SuperuserLabs/thankful) — Auto-send crypto to creators of content you love (folded) 🙏
+ - [**Thankful**](https://github.com/SuperuserLabs/thankful) — Auto-send crypto to creators of content you love (on hold) 🙏
  - [**uniswap-python**](https://github.com/uniswap-python/uniswap-python/) — Python library for Uniswap 💰📈
  - [**eeg-notebooks**](https://github.com/NeuroTechX/eeg-notebooks) — EEG experiments for consumer-grade BCIs 🧠📚
  - [**MSc thesis**](https://github.com/ErikBjare/thesis) — Classifying the brain activity of developers (with EEG) 🧠⚡
