@@ -1,12 +1,14 @@
 # Hi, I'm Erik 👋🏼
 
-Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant for the terminal that turns every developer into a superuser.
+I build free and open-source software for fun and the betterment of mankind 🌎🌍🌏
 
-Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer). Creator of [ActivityWatch](https://activitywatch.net), the world's best open-source time tracker.
+Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant for the terminal that turns every developer into a superuser. Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer). Creator of [ActivityWatch](https://activitywatch.net), the world's best open-source time tracker.
+
+Talk to me about **AI/ML agents**, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading), and [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance).
 
 ### Current Focus
 
-Building an AI-native one-person company. Superuser Labs develops gptme as open-source infrastructure for personal AI agents — tools that respect your privacy, run locally, and make you more capable.
+Building an AI-native one-person company. Agents have become such an obvious priority that they unlock everything else — Superuser Labs develops gptme as open-source infrastructure for personal AI agents that respect your privacy, run locally, and make you more capable.
 
 ### Projects 📌
 
@@ -15,12 +17,13 @@ Building an AI-native one-person company. Superuser Labs develops gptme as open-
  - [**ActivityWatch**](https://activitywatch.net) — Privacy-first automated time tracker. 10k+ GitHub stars, used by researchers worldwide. 📊
  - [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) — Personal data analysis and Quantified Self experiments. 🔬
  - [**uniswap-python**](https://github.com/uniswap-python/uniswap-python/) — Python library for Uniswap. 💰📈
+ - And **lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories)** ✨
 
 ### Around the web 🧭
 
  - [Website](https://erik.bjareholt.com) 🌐
  - [Twitter](https://twitter.com/ErikBjare) 🐦
- - [GitHub Sponsors](https://github.com/sponsors/ErikBjare) 🥰
+ - Fund my work on [Patreon](https://patreon.com/ErikBjare) or by becoming a [GitHub Sponsor](https://github.com/sponsors/ErikBjare) 🥰
 
 ---
 
