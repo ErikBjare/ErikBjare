@@ -13,10 +13,11 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
    - [**gptodo**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptodo) — Task management CLI with multi-agent spawning
    - [**gptme-voice**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptme-voice) — Voice interface using OpenAI Realtime API
    - [**gptmail**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptmail) — Email integration for agents
-   - [**gptme-activity-summary**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptme-activity-summary) — Recursive daily/weekly/monthly summarization
+   - [**gptme-activity-summary**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptme-activity-summary) — Multi-source activity summarization across timescales (daily/weekly/monthly), for agents and humans
  - [**Bob**](https://github.com/TimeToBuildBob) — Developing truly autonomous agents 👷
  - [**ActivityWatch**](https://activitywatch.net) — The world's best free and open-source automated time-tracker 📊
  - [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) — Analyzing my personal data 🔬
+ - [**Thankful**](https://github.com/SuperuserLabs/thankful) — Auto-send crypto to creators of content you love (folded) 🙏
  - [**uniswap-python**](https://github.com/uniswap-python/uniswap-python/) — Python library for Uniswap 💰📈
  - [**eeg-notebooks**](https://github.com/NeuroTechX/eeg-notebooks) — EEG experiments for consumer-grade BCIs 🧠📚
  - [**MSc thesis**](https://github.com/ErikBjare/thesis) — Classifying the brain activity of developers (with EEG) 🧠⚡
