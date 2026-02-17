@@ -2,9 +2,9 @@
 
 I build free and open-source software for fun and the betterment of mankind 🌎🌍🌏
 
-Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant for the terminal that turns every developer into a superuser. Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer). Creator of [ActivityWatch](https://activitywatch.net), the world's best open-source time tracker.
+Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org) — an open-source AI assistant that turns every developer into a superuser. Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer) :heart:
 
-Talk to me about **AI/ML agents**, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading), and [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance).
+Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) — and past interests I may revisit as agents scale my bandwidth: [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading) and [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance).
 
 ### Current Focus
 
@@ -12,17 +12,19 @@ Building an AI-native one-person company. Agents have become such an obvious pri
 
 ### Projects 📌
 
- - [**gptme**](https://gptme.org) — Open-source AI assistant for the terminal. Chat with LLMs that can edit files, run code, browse the web, and use your tools. 📇🤖
- - [**Bob**](https://github.com/TimeToBuildBob) — Truly autonomous AI agent built on gptme. Runs 24/7, writes code, publishes blog posts, manages its own infrastructure. 👷
- - [**ActivityWatch**](https://activitywatch.net) — Privacy-first automated time tracker. 10k+ GitHub stars, used by researchers worldwide. 📊
- - [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) — Personal data analysis and Quantified Self experiments. 🔬
- - [**uniswap-python**](https://github.com/uniswap-python/uniswap-python/) — Python library for Uniswap. 💰📈
+ - Making LLM agents help you with everything — [**gptme**](https://gptme.org) 📇🤖
+ - Developing truly autonomous agents, like [**Bob**](https://github.com/TimeToBuildBob) 👷
+ - The world's best free and open-source automated time-tracker — [**ActivityWatch**](https://activitywatch.net) 📊
+ - Analyzing my personal data in [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) 🔬
+ - Maintainer of [**uniswap-python**](https://github.com/uniswap-python/uniswap-python/) 💰📈
+ - Maintainer of [**eeg-notebooks**](https://github.com/NeuroTechX/eeg-notebooks) 🧠📚
+ - Wrote my [**MSc thesis**](https://github.com/ErikBjare/thesis) about classifying the brain activity of developers (with EEG) 🧠⚡
  - And **lots of [other stuff](https://github.com/search?o=desc&q=user%3AErikBjare&s=stars&type=Repositories)** ✨
 
 ### Around the web 🧭
 
- - [Website](https://erik.bjareholt.com) 🌐
- - [Twitter](https://twitter.com/ErikBjare) 🐦
+ - Check out my [website](https://erik.bjareholt.com) 🌐
+ - Follow me on [Twitter](https://twitter.com/ErikBjare) 🐦
  - Fund my work on [Patreon](https://patreon.com/ErikBjare) or by becoming a [GitHub Sponsor](https://github.com/sponsors/ErikBjare) 🥰
 
 ---
