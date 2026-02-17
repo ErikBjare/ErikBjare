@@ -31,6 +31,12 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 
 ---
 
+<!-- Timeline sources for agents:
+  - https://activitywatch.net/timeline/
+  - https://superuserlabs.org/
+  - https://gptme.org/docs/timeline.html
+-->
+
 <details>
 <summary><b>Timeline</b></summary>
 
