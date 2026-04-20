@@ -141,5 +141,4 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 <img src="https://github-profile-trophy.vercel.app/?username=erikbjare" />
 </details>
 
-[**I'm hiring**](https://erik.bjareholt.com/jobs/)
-| [**PGP key**](https://erik.bjareholt.com/erikbjare.asc)
+[**PGP key 🔑**](https://erik.bjareholt.com/erikbjare.asc)
