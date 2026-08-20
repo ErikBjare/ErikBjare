@@ -1,3 +1,8 @@
+<!-- KEEP IN SYNC: bio + projects here are mirrored (curated) on
+     https://erik.bjareholt.com (repo ErikBjare/ErikBjare.github.io, index.pug).
+     When updating either, update the other. This README is the more
+     comprehensive source of truth. -->
+
 # Hi, I'm Erik 👋🏼
 
 I build free and open-source software for fun and the betterment of mankind 🌎🌍🌏
