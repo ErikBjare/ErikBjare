@@ -76,7 +76,7 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 
 **gptme-contrib** — Community plugins and tools for gptme. Includes gptodo (task management CLI with multi-agent spawning), Twitter/Telegram bot integrations, activity summarization, voice interface, lessons system, and the ACE evaluation framework.
 
-**ActivityWatch** — Privacy-first automated time tracking. Runs locally, tracks what you do on your computer, provides insights. 18k+ GitHub stars, 400k+ downloads, used in 50+ academic papers, active community. [Founded 2014](https://activitywatch.net/timeline/), rewritten 2016.
+**ActivityWatch** — Privacy-first automated time tracking. Runs locally, tracks what you do on your computer, provides insights. 18k+ GitHub stars, 1M+ downloads, used in 50+ academic papers, active community. [Founded 2014](https://activitywatch.net/timeline/), rewritten 2016.
 
 **Bob** — An autonomous AI agent that runs 24/7 on a VM. Writes code, reviews PRs, publishes blog posts, manages infrastructure, and learns from every session. Built on gptme's agent architecture, designed to be forkable for creating new agents.
 
