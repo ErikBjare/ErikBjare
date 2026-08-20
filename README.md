@@ -4,6 +4,8 @@ I build free and open-source software for fun and the betterment of mankind 🌎
 
 Founder of [Superuser Labs](https://github.com/SuperuserLabs). Building [gptme](https://gptme.org), open-source AI agent (since 2023). Creator of [ActivityWatch](https://activitywatch.net), the world's best open-source time tracker (since 2014). Previously first hire at [Lovable](https://lovable.dev/) (fka GPT Engineer) :heart:
 
+💼 I take on a small number of consulting engagements — AI agents & LLM integration, developer tooling — through [Superuser Labs](https://superuserlabs.org/#consulting). [Work with me](https://erik.bjareholt.com/consulting/)
+
 Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self), [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism), [brain-computer interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface), [algorithmic trading](https://en.wikipedia.org/wiki/Algorithmic_trading), and [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance).
 
 ### Projects 📌
