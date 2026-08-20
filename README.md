@@ -16,12 +16,12 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 ### Projects 📌
 
  - [**gptme**](https://gptme.org) — Making LLM agents help you with everything 📇🤖
- - [**gptme-contrib**](https://github.com/gptme/gptme-contrib) — Community plugins, tools, and lessons for gptme 🧩
+ - [**gptme-contrib**](https://github.com/gptme/gptme-contrib) — Community plugins for gptme, plus many harness-independent tools and CLIs 🧩
    - [**gptodo**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptodo) — Task management CLI with multi-agent spawning
    - [**gptme-voice**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptme-voice) — Voice interface using OpenAI Realtime API
    - [**gptmail**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptmail) — Email integration for agents
    - [**gptme-activity-summary**](https://github.com/gptme/gptme-contrib/tree/master/packages/gptme-activity-summary) — Multi-source activity summarization across timescales (daily/weekly/monthly), for agents and humans
- - [**Bob**](https://github.com/TimeToBuildBob) — Developing truly autonomous agents 👷
+ - [**Bob**](https://github.com/TimeToBuildBob) — Truly autonomous agent built on gptme 👷
  - [**ActivityWatch**](https://activitywatch.net) — The world's best free and open-source automated time-tracker 📊
  - [**quantifiedme**](https://github.com/ErikBjare/quantifiedme) — Analyzing my personal data 🔬
  - [**Thankful**](https://github.com/SuperuserLabs/thankful) — Auto-send crypto to creators of content you love (on hold) 🙏
@@ -77,9 +77,9 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 <details>
 <summary><b>Projects (Extended)</b></summary>
 
-**gptme** — Open-source AI agent framework. Started CLI-first and local-first, now also a web app, desktop app, and hosted service at [gptme.ai](https://gptme.ai). Tool system for file editing, code execution, web browsing, and custom tools; supports Claude, GPT, and local models. Powers autonomous agents like Bob. 4k+ GitHub stars.
+**gptme** — Open-source AI agent framework. Available as a CLI, web app, desktop app, and cloud service at [gptme.ai](https://gptme.ai). Tool system for file editing, code execution, web browsing, and custom tools; supports Claude, GPT, and local models. Powers autonomous agents like Bob. 4k+ GitHub stars.
 
-**gptme-contrib** — Community plugins and tools for gptme. Includes gptodo (task management CLI with multi-agent spawning), Twitter/Telegram bot integrations, activity summarization, voice interface, lessons system, and the ACE evaluation framework.
+**gptme-contrib** — Community plugins and tools for gptme; many are harness-independent scripts, tools, and CLIs. Includes gptodo (task management CLI with multi-agent spawning), Twitter/Telegram bot integrations, activity summarization, voice interface, lessons system, and the ACE evaluation framework.
 
 **ActivityWatch** — Privacy-first automated time tracking. Runs locally, tracks what you do on your computer, provides insights. 18k+ GitHub stars, 1M+ downloads, used in 50+ academic papers, active community. [Founded 2014](https://activitywatch.net/timeline/).
 
