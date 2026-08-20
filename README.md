@@ -77,7 +77,7 @@ Talk to me about **AI agents and LLMs**, [Quantified Self](https://en.wikipedia.
 <details>
 <summary><b>Projects (Extended)</b></summary>
 
-**gptme** — Open-source AI agent framework. Available as a CLI, web app, desktop app, and cloud service at [gptme.ai](https://gptme.ai). Tool system for file editing, code execution, web browsing, and custom tools; supports Claude, GPT, and local models. Powers autonomous agents like Bob. 4k+ GitHub stars.
+**gptme** — Open-source AI agent framework. Available as a CLI, web app, desktop app, and cloud service at [gptme.ai](https://gptme.ai). Tool system for file editing, code execution, web browsing, and custom tools; model-agnostic (bring your own key, or run local models). Powers autonomous agents like Bob. 4k+ GitHub stars.
 
 **gptme-contrib** — Community plugins and tools for gptme; many are harness-independent scripts, tools, and CLIs. Includes gptodo (task management CLI with multi-agent spawning), Twitter/Telegram bot integrations, activity summarization, voice interface, lessons system, and the ACE evaluation framework.
 
